@@ -14,3 +14,12 @@ This repository contains a Python script that utilizes the `openpyxl` library to
 
    ```bash
    git clone https://github.com/your-username/excel-data-analysis.git
+
+## Dependencies
+
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/): A Python library for reading and writing Excel (xlsx) files.
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
