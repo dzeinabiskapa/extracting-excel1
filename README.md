@@ -22,4 +22,4 @@ This repository contains a Python script that utilizes the `openpyxl` library to
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
